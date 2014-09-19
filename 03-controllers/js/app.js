@@ -8,6 +8,7 @@
     .controller('MainController',function($scope){
         $scope.name = 'Carl'
         $scope.categories = ['HTML5','JavaScript','CSS','Games'];
+        
     });
 
 })();
